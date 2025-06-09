@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Atom",
+  "accentColor": "",
+  "interfaceFontFamily": "Consolas",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "textFontFamily": "Atkinson Hyperlegible Next"
+}

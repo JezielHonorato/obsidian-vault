@@ -1,0 +1,42 @@
+{
+  "logoType": "lucideIcon",
+  "logo": {
+    "lucideIcon": "code",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Hello World!",
+  "customFont": "monospaceFont",
+  "fontSize": "2em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Welcome.md",
+      "timestamp": 1749690810618
+    },
+    {
+      "filepath": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Função.md",
+      "timestamp": 1749608146336
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
