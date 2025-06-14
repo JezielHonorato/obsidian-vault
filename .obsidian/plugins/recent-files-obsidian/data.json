@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Função",
-      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Função.md"
+      "basename": "Matriz",
+      "path": "Matriz.md"
     },
     {
       "basename": "Welcome",
       "path": "Welcome.md"
     },
     {
+      "basename": "Composição de Funções",
+      "path": "01 - Matemática/03 - Funções/04 - Operações com Funções/Composição de Funções.md"
+    },
+    {
+      "basename": "Função Logarítmica",
+      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Logarítmica.md"
+    },
+    {
+      "basename": "Função Linear",
+      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Linear.md"
+    },
+    {
       "basename": "Função Afim",
       "path": "01 - Matemática/03 - Funções/02 - Tipos de Funções/Função Afim.md"
+    },
+    {
+      "basename": "Imagem de Função",
+      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Imagem de Função.md"
+    },
+    {
+      "basename": "Função Exponencial",
+      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Exponencial.md"
+    },
+    {
+      "basename": "Função",
+      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Função.md"
+    },
+    {
+      "basename": "Domínio e Contradomínio",
+      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Domínio e Contradomínio.md"
+    },
+    {
+      "basename": "Gráfico de Função",
+      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Gráfico de Função.md"
     },
     {
       "basename": "Template",
@@ -113,10 +145,6 @@
       "path": "01 - Matemática/03 - Funções/02 - Tipos de Funções/Função Sobrejetora.md"
     },
     {
-      "basename": "Domínio e Contradomínio",
-      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Domínio e Contradomínio.md"
-    },
-    {
       "basename": "Propriedades dos Conjuntos",
       "path": "01 - Matemática/01 - Teoria dos Conjuntos/03 - Operações com Conjuntos/Propriedades dos Conjuntos.md"
     },
@@ -157,28 +185,12 @@
       "path": "01 - Matemática/01 - Teoria dos Conjuntos/01 - Conceitos Fundamentais/Cardinalidade de Conjuntos.md"
     },
     {
-      "basename": "Composição de Funções",
-      "path": "01 - Matemática/03 - Funções/04 - Operações com Funções/Composição de Funções.md"
-    },
-    {
-      "basename": "Gráfico de Função",
-      "path": "01 - Matemática/03 - Funções/01 - Conceitos Fundamentais/Gráfico de Função.md"
-    },
-    {
       "basename": "Função Bijetora",
       "path": "01 - Matemática/03 - Funções/02 - Tipos de Funções/Função Bijetora.md"
     },
     {
-      "basename": "Função Linear",
-      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Linear.md"
-    },
-    {
       "basename": "Função Quadrática",
       "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Quadrática.md"
-    },
-    {
-      "basename": "Função Logarítmica",
-      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Logarítmica.md"
     },
     {
       "basename": "Função Inversa",
@@ -187,18 +199,6 @@
     {
       "basename": "Função Trigonométrica",
       "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Trigonométrica.md"
-    },
-    {
-      "basename": "Função Exponencial",
-      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Exponencial.md"
-    },
-    {
-      "basename": "Função Injetora",
-      "path": "01 - Matemática/03 - Funções/02 - Tipos de Funções/Função Injetora.md"
-    },
-    {
-      "basename": "xe2",
-      "path": "03 - Assets/xe2.png"
     }
   ],
   "omittedPaths": [],

@@ -29,9 +29,3 @@ Para $f(x) = x^2$, com domínio $\mathbb{R}$:
 
 Para $f(x) = |x|$:
 - Imagem: $\{y \in \mathbb{R} \mid y \geq 0\}$.
-
-## Observações
-
-- A imagem é **sempre um subconjunto do contradomínio**.
-- Se a imagem coincide com o contradomínio, dizemos que a função é **sobrejetora**.
-

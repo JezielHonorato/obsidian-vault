@@ -37,8 +37,3 @@ $$
 - Contradomínio: $\mathbb{R}$
 
 Note que a **imagem** dessa função é $\{y \in \mathbb{R} \mid y \geq 0\}$.
-
-## Observação
-
-- O contradomínio é **pré-definido** (vem da definição da função).
-- A imagem é o conjunto de valores que a função **efetivamente atinge**.

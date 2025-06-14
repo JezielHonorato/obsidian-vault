@@ -15610,6 +15610,7 @@ realizada
 restando
 resulte
 radical
+radioatividade
 ngulo
 new
 note
@@ -20767,6 +20768,7 @@ dentro
 decide
 dada
 deslocamento
+decaimento
 entre
 esse
 es
@@ -52520,6 +52522,7 @@ maneira
 maior
 metro
 multiplicados
+modelam
 Um
 UV
 UNE
@@ -60493,6 +60496,7 @@ produtos
 populacional
 parcelas
 perfeita
+processos
 lados
 lUW
 ldr
@@ -85346,6 +85350,7 @@ Exceto
 Entre
 Exponencia
 Expoente
+Exponencial
 Keywords
 Kids
 KK
