@@ -2718,6 +2718,8 @@ casas
 correspondem
 contagem
 conta
+colunas
+coluna
 seno
 sicas
 something
@@ -15611,6 +15613,7 @@ restando
 resulte
 radical
 radioatividade
+retangular
 ngulo
 new
 note
@@ -25794,6 +25797,7 @@ oscila
 obedecem
 obtido
 ordenado
+organizada
 hipotenusa
 hO
 hp
@@ -33922,6 +33926,7 @@ Teoria
 Teoremas
 Teorema
 Tornando
+Transforma
 is
 internos
 importance
@@ -44458,6 +44463,7 @@ Morgan
 Mapa
 Maps
 Modelagem
+Matriz
 When
 Width
 WB
@@ -52523,6 +52529,8 @@ maior
 metro
 multiplicados
 modelam
+matriz
+matrizes
 Um
 UV
 UNE
@@ -57880,6 +57888,7 @@ gCWWW
 grau
 geralmente
 gitos
+grafos
 plana
 pol
 pontos
@@ -63053,6 +63062,8 @@ letras
 listagem
 limites
 lculos
+linhas
+lidas
 forma
 formam
 figura
@@ -68303,6 +68314,7 @@ Ogk
 OYu
 Onp
 Oposi
+Ordem
 PDF
 Pages
 PLI
@@ -79747,6 +79759,7 @@ Serve
 Simplifica
 Semi
 Semiaberto
+Sistemas
 Lang
 Language
 Limits
@@ -99619,6 +99632,7 @@ Representa
 Real
 Raiz
 Resolu
+Redes
 XObject
 Xk
 XO
@@ -129628,6 +129642,7 @@ GLkDGfjaRvhatC
 Geometria
 GQJ
 Gerais
+Geral
 Qt
 QV
 Qe

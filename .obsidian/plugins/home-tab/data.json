@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Untitled.md",
-      "timestamp": 1749864103242
+      "filepath": "04 - Matriz/Tipos de Matrizes.md",
+      "timestamp": 1749864378092
+    },
+    {
+      "filepath": "04 - Matriz/Matriz.md",
+      "timestamp": 1749864375920
+    },
+    {
+      "filepath": "04 - Matriz/Ordem de uma Matriz.md",
+      "timestamp": 1749864375236
+    },
+    {
+      "filepath": "04 - Matriz/Elementos de uma Matriz.md",
+      "timestamp": 1749864352711
     },
     {
       "filepath": "Welcome.md",
       "timestamp": 1749863815598
-    },
-    {
-      "filepath": "01 - Matemática/03 - Funções/04 - Operações com Funções/Composição de Funções.md",
-      "timestamp": 1749863812628
     }
   ],
   "bookmarkedFileStore": [],

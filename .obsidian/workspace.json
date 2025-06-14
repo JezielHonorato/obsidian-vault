@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matriz.md",
+                "file": "04 - Matriz/Elementos de uma Matriz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matriz"
+              "title": "Elementos de uma Matriz"
+            }
+          },
+          {
+            "id": "30cfbb7cc8d7e506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Matriz/Ordem de uma Matriz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ordem de uma Matriz"
+            }
+          },
+          {
+            "id": "24dcf0f83ad5e8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Matriz/Tipos de Matrizes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Matrizes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -330,10 +358,13 @@
       "pexels-banner:🚩 Pixel Banner Menu": true
     }
   },
-  "active": "dfa4ca1eaef902bd",
+  "active": "24dcf0f83ad5e8dc",
   "lastOpenFiles": [
+    "04 - Matriz/Matriz.md",
+    "04 - Matriz/Tipos de Matrizes.md",
+    "04 - Matriz/Ordem de uma Matriz.md",
+    "04 - Matriz/Elementos de uma Matriz.md",
     "Welcome.md",
-    "Matriz.md",
     "04 - Matriz",
     "01 - Matemática/03 - Funções/04 - Operações com Funções/Composição de Funções.md",
     "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Logarítmica.md",
@@ -356,9 +387,6 @@
     "01 - Matemática/02 - Conjuntos Númericos/03 - Propriedades/Teoremas dos Conjuntos Numéricos.md",
     "01 - Matemática/02 - Conjuntos Númericos/02 - Representações/Números Decimais.md",
     "01 - Matemática/02 - Conjuntos Númericos/02 - Representações/Números Fracionários.md",
-    "01 - Matemática/02 - Conjuntos Númericos/02 - Representações/Números Fracionários e Decimais copy.md",
-    "01 - Matemática/02 - Conjuntos Númericos/02 - Representações/Números Primos.md",
-    "01 - Matemática/02 - Conjuntos Númericos/02 - Representações/Reta Real.md",
     "01 - Matemática/02 - Conjuntos Númericos/02 - Representações",
     "01 - Matemática/02 - Conjuntos Númericos/03 - Operações Matemáticas",
     "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais",

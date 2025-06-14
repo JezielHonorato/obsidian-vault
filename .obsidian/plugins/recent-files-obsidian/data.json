@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Tipos de Matrizes",
+      "path": "04 - Matriz/Tipos de Matrizes.md"
+    },
+    {
       "basename": "Matriz",
-      "path": "Matriz.md"
+      "path": "04 - Matriz/Matriz.md"
+    },
+    {
+      "basename": "Ordem de uma Matriz",
+      "path": "04 - Matriz/Ordem de uma Matriz.md"
+    },
+    {
+      "basename": "Elementos de uma Matriz",
+      "path": "04 - Matriz/Elementos de uma Matriz.md"
     },
     {
       "basename": "Welcome",
@@ -187,18 +199,6 @@
     {
       "basename": "Função Bijetora",
       "path": "01 - Matemática/03 - Funções/02 - Tipos de Funções/Função Bijetora.md"
-    },
-    {
-      "basename": "Função Quadrática",
-      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Quadrática.md"
-    },
-    {
-      "basename": "Função Inversa",
-      "path": "01 - Matemática/03 - Funções/04 - Operações com Funções/Função Inversa.md"
-    },
-    {
-      "basename": "Função Trigonométrica",
-      "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Trigonométrica.md"
     }
   ],
   "omittedPaths": [],
