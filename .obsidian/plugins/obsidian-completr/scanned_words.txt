@@ -10459,6 +10459,7 @@ tema
 tamanhos
 teoremas
 termina
+transposi
 que
 qH
 qV
@@ -23403,6 +23404,7 @@ eliminar
 existir
 entendida
 especial
+essencial
 oposto
 of
 or

@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Tipos de Matrizes",
-      "path": "04 - Matriz/Tipos de Matrizes.md"
-    },
-    {
-      "basename": "Matriz",
-      "path": "04 - Matriz/Matriz.md"
-    },
-    {
-      "basename": "Ordem de uma Matriz",
-      "path": "04 - Matriz/Ordem de uma Matriz.md"
-    },
-    {
-      "basename": "Elementos de uma Matriz",
-      "path": "04 - Matriz/Elementos de uma Matriz.md"
-    },
-    {
       "basename": "Welcome",
       "path": "Welcome.md"
     },
     {
-      "basename": "Composição de Funções",
-      "path": "01 - Matemática/03 - Funções/04 - Operações com Funções/Composição de Funções.md"
+      "basename": "Números Naturais",
+      "path": "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais/Números Naturais.md"
+    },
+    {
+      "basename": "Números Racionais",
+      "path": "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais/Números Racionais.md"
+    },
+    {
+      "basename": "Interseção de Conjuntos",
+      "path": "01 - Matemática/01 - Teoria dos Conjuntos/03 - Operações com Conjuntos/Interseção de Conjuntos.md"
+    },
+    {
+      "basename": "Conjunto Universo",
+      "path": "01 - Matemática/01 - Teoria dos Conjuntos/01 - Conceitos Fundamentais/Conjunto Universo.md"
+    },
+    {
+      "basename": "Conjunto",
+      "path": "01 - Matemática/01 - Teoria dos Conjuntos/01 - Conceitos Fundamentais/Conjunto.md"
     },
     {
       "basename": "Função Logarítmica",
       "path": "01 - Matemática/03 - Funções/03 - Funções Elementares/Função Logarítmica.md"
+    },
+    {
+      "basename": "Elementos de uma Matriz",
+      "path": "01 - Matemática/04 - Matriz/Elementos de uma Matriz.md"
+    },
+    {
+      "basename": "Tipos de Matrizes",
+      "path": "01 - Matemática/04 - Matriz/Tipos de Matrizes.md"
+    },
+    {
+      "basename": "Matriz",
+      "path": "01 - Matemática/04 - Matriz/Matriz.md"
+    },
+    {
+      "basename": "Ordem de uma Matriz",
+      "path": "01 - Matemática/04 - Matriz/Ordem de uma Matriz.md"
+    },
+    {
+      "basename": "Composição de Funções",
+      "path": "01 - Matemática/03 - Funções/04 - Operações com Funções/Composição de Funções.md"
     },
     {
       "basename": "Função Linear",
@@ -109,10 +129,6 @@
       "path": "01 - Matemática/02 - Conjuntos Númericos/02 - Representações/Reta Real.md"
     },
     {
-      "basename": "Números Racionais",
-      "path": "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais/Números Racionais.md"
-    },
-    {
       "basename": "Números Reais",
       "path": "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais/Números Reais.md"
     },
@@ -121,16 +137,8 @@
       "path": "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais/Números Irracionais.md"
     },
     {
-      "basename": "Números Naturais",
-      "path": "01 - Matemática/02 - Conjuntos Númericos/01 - Conjuntos Numéricos Fundamentais/Números Naturais.md"
-    },
-    {
       "basename": "Intervalos de Conjuntos",
       "path": "01 - Matemática/01 - Teoria dos Conjuntos/03 - Operações com Conjuntos/Intervalos de Conjuntos.md"
-    },
-    {
-      "basename": "Interseção de Conjuntos",
-      "path": "01 - Matemática/01 - Teoria dos Conjuntos/03 - Operações com Conjuntos/Interseção de Conjuntos.md"
     },
     {
       "basename": "Números Compostos",
@@ -181,16 +189,8 @@
       "path": "01 - Matemática/01 - Teoria dos Conjuntos/01 - Conceitos Fundamentais/Conjunto Vazio.md"
     },
     {
-      "basename": "Conjunto Universo",
-      "path": "01 - Matemática/01 - Teoria dos Conjuntos/01 - Conceitos Fundamentais/Conjunto Universo.md"
-    },
-    {
       "basename": "Conjunto Complementar",
       "path": "01 - Matemática/01 - Teoria dos Conjuntos/03 - Operações com Conjuntos/Conjunto Complementar.md"
-    },
-    {
-      "basename": "Conjunto",
-      "path": "01 - Matemática/01 - Teoria dos Conjuntos/01 - Conceitos Fundamentais/Conjunto.md"
     },
     {
       "basename": "Cardinalidade de Conjuntos",
